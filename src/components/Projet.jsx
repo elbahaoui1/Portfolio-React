@@ -7,64 +7,15 @@ function Projet() {
       <section className="row justify-content-center" style={{ padding: '10vh 20vh 10vh 20vh' }}>
         <div className="col-sm-6 col-md-4 mb-4">
           <div className="card">
-            <Image src="./projet1.jpg" className="card-img-top" alt="..." />
+            <Image src="./goalfinder.png" className="card-img-top" alt="..." />
             <div className="card-body">
-              <h5 className="card-title">project Number 1</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" className="btn btn-primary">Learn more</a>
+              <h5 className="card-title">Goal Finder</h5>
+              <p className="card-text">Goal finder is a cross platform app football complexes</p>
+              <a href="https://github.com/elbahaoui1/GoalFinder-Mobile" className="btn btn-primary">Learn more</a>
             </div>
           </div>
         </div>
-        <div className="col-sm-6 col-md-4 mb-4">
-          <div className="card">
-            <Image src="./projet2.jpg" className="card-img-top" alt="..." />
-            <div className="card-body">
-              <h5 className="card-title">project Number 2</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" className="btn btn-primary">Learn more</a>
-            </div>
-          </div>
-        </div>
-        <div className="col-sm-6 col-md-4 mb-4">
-          <div className="card">
-            <Image src="./projet3.jpg" className="card-img-top" alt="..." />
-            <div className="card-body">
-              <h5 className="card-title">project Number 3</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" className="btn btn-primary">Learn more</a>
-            </div>
-          </div>
-        </div>
-        <div className="col-sm-6 col-md-4 mb-4">
-          <div className="card">
-            <Image src="./projet3.jpg" className="card-img-top" alt="..." />
-            <div className="card-body">
-              <h5 className="card-title">project Number 4</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" className="btn btn-primary">Learn more</a>
-            </div>
-          </div>
-        </div>
-        <div className="col-sm-6 col-md-4 mb-4">
-          <div className="card">
-            <Image src="./projet3.jpg" className="card-img-top" alt="..." />
-            <div className="card-body">
-              <h5 className="card-title">project Number 5</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" className="btn btn-primary">Learn more</a>
-            </div>
-          </div>
-        </div>
-        <div className="col-sm-6 col-md-4 mb-4">
-          <div className="card">
-            <Image src="./projet3.jpg" className="card-img-top" alt="..." />
-            <div className="card-body">
-              <h5 className="card-title">project Number 6</h5>
-              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" className="btn btn-primary">Learn more</a>
-            </div>
-          </div>
-        </div>
+        
       </section>
     </div>
   )

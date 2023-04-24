@@ -10,8 +10,8 @@ function NavbarCom(){
           <Nav.Link as={Link} to="/">Accueil</Nav.Link>
           <Nav.Link as={Link} to="/formation">Formation</Nav.Link>
           <Nav.Link as={Link} to="/experience">Experience</Nav.Link>
-          <Nav.Link as={Link} to="/cours">Cours</Nav.Link>
-          <Nav.Link as={Link} to="/publication">Publication</Nav.Link>
+          
+          <Nav.Link as={Link} to="/certification">Certification</Nav.Link>
           <Nav.Link as={Link} to="/projet">Projets</Nav.Link>
         </Nav>
       </Navbar.Collapse>

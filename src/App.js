@@ -11,7 +11,7 @@ import Formation from './components/Formation';
 import Experience from './components/Experience';
 import Cours from './components/Cours';
 import Projet from './components/Projet';
-import Publication from './components/Publication';
+import Certification from './components/Certification';
 import Footer from './components/Footer'
 function App() {
 
@@ -29,7 +29,7 @@ function App() {
               <Route path="/formation/*" element={<Formation />}></Route>
               <Route path="/experience/*" element={<Experience />}></Route>
               <Route path="/cours/*" element={<Cours />}></Route>
-              <Route path="/publication/*" element={<Publication />}></Route>
+              <Route path="/certification/*" element={<Certification />}></Route>
               <Route path="/projet/*" element={<Projet />}></Route>
             </Routes>
           
